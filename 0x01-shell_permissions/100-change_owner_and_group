@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent chgrp -r /*
+chown vincent:staff/*
